@@ -13,6 +13,7 @@ Modules/mpu6050.py: is a modified version of m-rtijn's mpu6050 python library (h
 Modules/utils.py: includes funtions used in MP_Car.py for hardware detection, data gathering and error handling.
 
 # Needed Libraries
+
 python3 -m pip install opencv-python
 pythom3 -m pip install imutils
 pythom3 -m pip install numpy
