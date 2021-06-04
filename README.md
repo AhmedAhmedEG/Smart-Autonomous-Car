@@ -13,24 +13,35 @@ Modules/mpu6050.py: is a modified version of m-rtijn's mpu6050 python library (h
 Modules/utils.py: includes funtions used in MP_Car.py for hardware detection, data gathering and error handling.
 
 # Needed Libraries
-
 python3 -m pip install opencv-python
+
 pythom3 -m pip install imutils
+
 pythom3 -m pip install numpy
+
 sudo apt install python3-smbus
 
 # Opencv erros in rasbian OS
 Firstly, update everthing:-
+
 sudo apt-get update && sudo apt-get upgrade && sudo rpi-update
+
 sude reboot
 
 Then install tools needed for opencv:-
+
 sudo apt-get install libcblas-dev
+
 sudo apt-get install libhdf5-dev
+
 sudo apt-get install libhdf5-serial-dev
+
 sudo apt-get install libatlas-base-dev
+
 sudo apt-get install libjasper-dev 
+
 sudo apt-get install libqtgui4 
+
 sudo apt-get install libqt4-test
 
 # If blutooth does not exist even when connected correctly
