@@ -21,6 +21,8 @@ Modules/utils.py: includes funtions used in MP_Car.py for hardware detection, da
 # Needed Libraries
 python3 -m pip install opencv-python
 
+python3 -m pip install pyserial
+
 pythom3 -m pip install imutils
 
 pythom3 -m pip install numpy
