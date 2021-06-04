@@ -32,6 +32,6 @@ sudo apt-get install libjasper-dev
 sudo apt-get install libqtgui4 
 sudo apt-get install libqt4-test
 
-#If blutooth does not exist even when connected correctly
+# If blutooth does not exist even when connected correctly
 Follow this instructions:-
 ![Screenshot_1](https://user-images.githubusercontent.com/16827679/120731712-720d6480-c4e4-11eb-8628-7e06d255aa3c.png)
