@@ -15,7 +15,7 @@ MP_Car.ino: is the arduino code that handels the motor driver, ultrasonic sensor
 
 Mask_Creator.py: a simple script with GUI trackers, it's purpose is to get values needed for filtering the wanted color for object detection.
 
-Modules/mpu6050.py: is a modified version of m-rtijn's mpu6050 python library (https://github.com/m-rtijn) that's eaiser to use and includes calculations for rotations angles with error reduction.
+Modules/mpu6050.py: is a modified version of m-rtijn's mpu6050 python library (https://github.com/m-rtijn) that's eaiser to use and includes calculations for rotations angles, logging for all usefull sensor information and with error reduction technique.
 
 Modules/utils.py: includes funtions used in MP_Car.py for hardware detection, data gathering and error handling.
 
