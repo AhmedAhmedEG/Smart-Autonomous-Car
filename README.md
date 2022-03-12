@@ -19,6 +19,10 @@ Modules/mpu6050.py: is a modified version of m-rtijn's mpu6050 python library (h
 
 Modules/utils.py: includes funtions used in MP_Car.py for hardware detection, data gathering and error handling.
 
+# Full Info Report
+
+[Low Cost Autonomous Vehicle Based On Efficient Color Filtering Algorithm.docx](https://github.com/AhmedAhmedEG/Autonomous-Multiporpuse-Vehicle/files/8238477/Low.Cost.Autonomous.Vehicle.Based.On.Efficient.Color.Filtering.Algorithm.docx)
+
 # Needed Libraries
 python3 -m pip install opencv-python
 
